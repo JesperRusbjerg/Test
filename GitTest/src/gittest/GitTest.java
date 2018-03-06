@@ -16,7 +16,8 @@ public class GitTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // Mette/Per/Ralle/Nikolai er seje 
+
+        // Mette/Pernille/Ralle/Nikolai/Jepser er seje
     }
     
 }
