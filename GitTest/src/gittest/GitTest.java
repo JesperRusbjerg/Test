@@ -18,7 +18,7 @@ public class GitTest {
         // TODO code application logic here
 
         // Mette/Pernille/Ralle/Nikolai/Jepser er seje
-        // mettes ændring
+        // mettes ændring // ny ændring
     }
     
 }
